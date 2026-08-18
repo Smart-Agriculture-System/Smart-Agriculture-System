@@ -6,7 +6,7 @@ An automated irrigation framework combining IoT sensors, cloud infrastructure, a
 ---
 
 ##  Problem Statement
-Traditional irrigation methods rely on fixed schedules or manual observation, which often leads to:
+Traditional irrigation methods rely on fixed schedules or manual observation, which often leads to the following:
 - Over-irrigation (water wastage)
 - Under-irrigation (low crop yield)
 
